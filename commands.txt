@@ -1,0 +1,3 @@
+# to export a notebook to jekyll without inputs
+
+jupyter nbconvert --to jekyll "Climate Change Challenge.ipynb" --no-input
